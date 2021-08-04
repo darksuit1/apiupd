@@ -1,5 +1,5 @@
 updated_latest_fixedv2
-https://raw.githubusercontent.com/GreenMs02/Update/master/EasyExploitDLL.dll
+https://raw.githubusercontent.com/muchypeachy/apiupd/main/MASSAPIDLL.dll
 false
 vr
 dll
